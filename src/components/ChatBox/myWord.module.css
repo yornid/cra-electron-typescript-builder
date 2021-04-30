@@ -1,0 +1,11 @@
+.myWord {
+  flex: 1 0 auto;
+  display: flex;
+  align-items: stretch;
+  margin: 3px 2px;
+}
+
+.wordBox {
+  width: 100%;
+  outline: none;
+}

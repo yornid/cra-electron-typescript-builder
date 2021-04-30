@@ -1,0 +1,31 @@
+.app {
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
+
+.feeds {
+  flex: 0 0 26%;
+  padding: 0 4px 0 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 0 1 auto;
+}
+
+.adWrap {
+  width: 100%;
+  height: 100px;
+  margin-top: 10px;
+  border: 2px solid #efa;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.ad {
+  width: 100%;
+}

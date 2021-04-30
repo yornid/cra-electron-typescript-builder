@@ -1,0 +1,35 @@
+.dialogs {
+  border: 2px solid #eac;
+  border-radius: 10px;
+  margin: 2px 4px;
+  flex: 0 1 90%;
+  overflow-y: auto;
+}
+
+.wrap {
+  margin: 10px 0;
+}
+
+.item {
+  padding: 5px 3px;
+}
+
+.owner {
+  background-color: #ccc;
+}
+
+.name {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.say {
+  display: block;
+  word-break: break-all;
+}
+
+.time {
+  text-align: right;
+  font-style: italic;
+  display: block;
+}

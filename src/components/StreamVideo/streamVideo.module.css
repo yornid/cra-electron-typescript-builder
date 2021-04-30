@@ -1,0 +1,21 @@
+.streamVideo {
+  position: relative;
+  overflow: hidden;
+}
+
+.video, .canvas {
+  box-sizing: border-box;
+}
+
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+}
+
+.canvas {
+  max-width: 100%;
+  border: 3px solid #0cf;
+  border-radius: 4px;
+}
