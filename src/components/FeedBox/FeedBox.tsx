@@ -8,7 +8,6 @@ import { randomFeeds } from '../../utils'
 
 import s from './feedBox.module.css'
 
-// TODO: remove
 const t: number = 5000
 
 function FeedBox({ Feed }: any) {
