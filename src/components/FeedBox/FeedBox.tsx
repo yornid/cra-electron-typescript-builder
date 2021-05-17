@@ -11,9 +11,7 @@ import s from './feedBox.module.css'
 const t: number = 5000
 
 // TODO: remove
-// rebase test 1
-// rebase test 2
-// rebase test 3
+// squash test 1
 
 function FeedBox({ Feed }: any) {
   useEffect(() => {
