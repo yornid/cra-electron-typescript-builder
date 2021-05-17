@@ -12,6 +12,7 @@ const t: number = 5000
 
 // TODO: remove
 // squash test 1
+// squash test 2
 
 function FeedBox({ Feed }: any) {
   useEffect(() => {
