@@ -65,7 +65,7 @@ class Chat {
   }
 
   setWord = (s: string): void => {
-    this.myWord = s;
+    this.myWord = s
   }
 
   sendWord = (): void => {
