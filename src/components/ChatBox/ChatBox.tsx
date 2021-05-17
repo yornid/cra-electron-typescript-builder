@@ -5,6 +5,8 @@ import { MyWordHOC } from './MyWord'
 
 import s from './chatBox.module.css'
 
+// TODO: remove
+
 const t: number = 5000;
 
 function ChatBox({ Chat }: any) {
