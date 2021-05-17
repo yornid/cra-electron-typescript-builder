@@ -4,6 +4,8 @@ import axios from 'axios'
 
 import { randomDialog, Queue } from './utils'
 
+// TODO: remove
+// this is Ronald
 const name = 'Ronald'
 
 class Store {
