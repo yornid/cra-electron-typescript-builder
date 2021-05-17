@@ -11,8 +11,6 @@ import s from './feedBox.module.css'
 const t: number = 5000
 
 function FeedBox({ Feed }: any) {
-  // TODO: remove
-  console.log('shit~~~')
   useEffect(() => {
     async function loop() {
       try {
