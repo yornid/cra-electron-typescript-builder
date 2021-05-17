@@ -10,6 +10,8 @@ import s from './feedBox.module.css'
 
 const t: number = 5000
 
+// TODO: remove
+
 function FeedBox({ Feed }: any) {
   useEffect(() => {
     async function loop() {
