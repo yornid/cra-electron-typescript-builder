@@ -12,6 +12,9 @@ function App() {
   const rootCtx: any = useRootContext()
   return (
     <div className={s.app}>
+      <div>
+        add some component
+      </div>
       <div className={s.feeds}>
         <h2>Feeds</h2>
         <FeedBox Feed={rootCtx.Feed} />
