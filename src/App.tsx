@@ -13,7 +13,13 @@ function App() {
   return (
     <div className={s.app}>
       <div>
-        add some component
+        first component
+      </div>
+      <div>
+        second component, change something here, change it again
+      </div>
+      <div>
+        third component
       </div>
       <div className={s.feeds}>
         <h2>Feeds</h2>
