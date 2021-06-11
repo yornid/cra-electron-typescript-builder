@@ -13,7 +13,7 @@ function App() {
   return (
     <div className={s.app}>
       <div>
-        first component
+        first component!!!!!
       </div>
       <div>
         second component, change something here, change it again
