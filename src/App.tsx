@@ -12,6 +12,15 @@ function App() {
   const rootCtx: any = useRootContext()
   return (
     <div className={s.app}>
+      <div>
+        first component!!!!!
+      </div>
+      <div>
+        second component, change something here, change it again
+      </div>
+      <div>
+        third component
+      </div>
       <div className={s.feeds}>
         <h2>Feeds</h2>
         <FeedBox Feed={rootCtx.Feed} />
